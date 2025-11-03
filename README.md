@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Tomasz Gondek
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszgondek&layout=compact)
 
 <!--
 **tomaszgondek/tomaszgondek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
